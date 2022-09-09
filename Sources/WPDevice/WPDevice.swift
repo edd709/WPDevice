@@ -3,7 +3,13 @@ public struct WPDevice {
     public init() {}
     
     public struct Phone {
+        
+        public init() {}
+        
         public struct name {
+            
+            public init() {}
+            
             static var iPhone8 = "iPhone 8"
             static var iPhone8Plus = "iPhone 8 Plus"
             static var iPhone11 = "iPhone 11"
