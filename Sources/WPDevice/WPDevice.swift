@@ -27,6 +27,9 @@ public struct WPDevice {
         }
         
         public struct description {
+            
+            public init() {}
+            
             static var iPhone8 = "iPhone8"
             static var iPhone8Plus = "iPhone8Plus"
             static var iPhone11 = "iPhone11"
@@ -46,9 +49,15 @@ public struct WPDevice {
     }
     
     public struct Tablet {
+        
+        public init() {}
+        
         static var iPadMini = "iPad mini (6th generation)"
     }
     public struct MediaPlayer {
+        
+        public init() {}
+        
         static var iPodTouch7th = "iPod touch (7th generation)"
     }
 }
