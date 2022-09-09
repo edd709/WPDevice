@@ -10,40 +10,40 @@ public struct WPDevice {
             
             public init() {}
             
-            static var iPhone8 = "iPhone 8"
-            static var iPhone8Plus = "iPhone 8 Plus"
-            static var iPhone11 = "iPhone 11"
-            static var iPhone11Pro = "iPhone 11 Pro"
-            static var iPhone11ProMax = "iPhone 11 Pro Max"
-            static var iPhone12 = "iPhone 12"
-            static var iPhone12Pro = "iPhone 12 Pro"
-            static var iPhone12ProMax = "iPhone 12 Pro Max"
-            static var iPhone12Mini = "iPhone 12 mini"
-            static var iPhone13 = "iPhone 13"
-            static var iPhone13Pro = "iPhone 13 Pro"
-            static var iPhone13ProMax = "iPhone 13 Pro Max"
-            static var iPhone13Mini = "iPhone 13 mini"
-            static var iPhoneSE2nd = "iPhone SE (3rd generation)"
+            public var iPhone8 = "iPhone 8"
+            public var iPhone8Plus = "iPhone 8 Plus"
+            public var iPhone11 = "iPhone 11"
+            public var iPhone11Pro = "iPhone 11 Pro"
+            public var iPhone11ProMax = "iPhone 11 Pro Max"
+            public var iPhone12 = "iPhone 12"
+            public var iPhone12Pro = "iPhone 12 Pro"
+            public var iPhone12ProMax = "iPhone 12 Pro Max"
+            public var iPhone12Mini = "iPhone 12 mini"
+            public var iPhone13 = "iPhone 13"
+            public var iPhone13Pro = "iPhone 13 Pro"
+            public var iPhone13ProMax = "iPhone 13 Pro Max"
+            public var iPhone13Mini = "iPhone 13 mini"
+            public var iPhoneSE2nd = "iPhone SE (3rd generation)"
         }
         
         public struct description {
             
             public init() {}
             
-            static var iPhone8 = "iPhone8"
-            static var iPhone8Plus = "iPhone8Plus"
-            static var iPhone11 = "iPhone11"
-            static var iPhone11Pro = "iPhone11Pro"
-            static var iPhone11ProMax = "iPhone11ProMax"
-            static var iPhone12 = "iPhone12"
-            static var iPhone12Pro = "iPhone12Pro"
-            static var iPhone12ProMax = "iPhone12ProMax"
-            static var iPhone12Mini = "iPhone12mini"
-            static var iPhone13 = "iPhone13"
-            static var iPhone13Pro = "iPhone13Pro"
-            static var iPhone13ProMax = "iPhone13ProMax"
-            static var iPhone13Mini = "iPhone13mini"
-            static var iPhoneSE2nd = "iPhoneSE2020"
+            public var iPhone8 = "iPhone8"
+            public var iPhone8Plus = "iPhone8Plus"
+            public var iPhone11 = "iPhone11"
+            public var iPhone11Pro = "iPhone11Pro"
+            public var iPhone11ProMax = "iPhone11ProMax"
+            public var iPhone12 = "iPhone12"
+            public var iPhone12Pro = "iPhone12Pro"
+            public var iPhone12ProMax = "iPhone12ProMax"
+            public var iPhone12Mini = "iPhone12mini"
+            public var iPhone13 = "iPhone13"
+            public var iPhone13Pro = "iPhone13Pro"
+            public var iPhone13ProMax = "iPhone13ProMax"
+            public var iPhone13Mini = "iPhone13mini"
+            public var iPhoneSE2nd = "iPhoneSE2020"
         }
         
     }
