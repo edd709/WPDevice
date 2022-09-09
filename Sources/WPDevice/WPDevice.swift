@@ -1,6 +1,6 @@
 public struct WPDevice {
     public init() {}
-    public var Item1 = "Item1"
+    static var Item1 = "Item1"
     public var Item2 = "Item2"
     public var Item3 = "Item3"
 }
